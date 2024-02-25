@@ -10,7 +10,6 @@
 Hakankoka/Hakankoka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# Obfuscated with PyObfuscate
 # https://www.github.com/htr-tech
 # Time : Sat monday 26 08:57:43 2024
 # -------------------------------
